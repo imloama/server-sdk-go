@@ -1,4 +1,4 @@
-module github.com/rongcloud/server-sdk-go/v3
+module github.com/imloama/server-sdk-go/v3
 
 require github.com/astaxie/beego v1.12.3
 
